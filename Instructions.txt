@@ -1,0 +1,3 @@
+Click 'Play' to start the game.
+Use the spacebar to shoot at the aliens and the left/right arrow keys to move.
+Clear as many aliens as possible!
